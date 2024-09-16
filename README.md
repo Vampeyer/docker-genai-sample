@@ -67,8 +67,14 @@ _____________________________________________________________________________
 	docker containerized Neo4j container and a Ollama LLM model container , both running concurrently.
 --------------------------------------------------------------------------------------------------------------------
 
+--- You should be running both containers , like this image on the right. 
 
-![Screenshot (543)](https://github.com/user-attachments/assets/62942ff2-793b-40d7-8920-f72e233964a6)
+![Screenshot (543)](https://github.com/user-attachments/assets/62942ff2-793b-40d7-8920-f72e233964a6) 
+
+These other images with Neo4j Aura Cloud services , and running a Ollama locally  OUT of docker , is NOT what this repo is configured for ,  
+
+This is configured to run your ollama inside of docker from docker hub.  Ok ?  kk - 
+But enjoy the screenshots provided below ! 
 ![Screenshot (542)](https://github.com/user-attachments/assets/c3c676bf-7c74-4f3d-89d8-765d6b5ddba8)
 ![Screenshot (541)](https://github.com/user-attachments/assets/1cae76ea-8116-4ba7-820e-465d26721473)
 ![Screenshot (540)](https://github.com/user-attachments/assets/bfdb3d10-b070-491b-a590-ae5e6574ade2)
