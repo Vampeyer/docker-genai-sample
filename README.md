@@ -88,7 +88,7 @@ But enjoy the screenshots provided below !
 
 
 
- NOTICE  , 
+ NOTICE  ,  after running docker compose up --build  , something similar to  this ^ is what your container should have running in it. 
 
 
 
