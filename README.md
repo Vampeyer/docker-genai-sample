@@ -2,10 +2,15 @@
 GENERATIONAL AI , 
 PDF SCANNER , AND AI  ANALYZER / RESPONDER. 
 
+
+
 Using , Neo4J,  
 	Ollama, 
 	Streamlit, and 
  	Docker. 
+
+
+
 
 
 
