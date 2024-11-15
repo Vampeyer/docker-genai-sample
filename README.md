@@ -1,4 +1,16 @@
 
+GENERATIONAL AI , 
+PDF SCANNER , AND AI  ANALYZER / RESPONDER. 
+
+Using , Neo4J,  
+	Ollama, 
+	Streamlit, and 
+ 	Docker. 
+
+
+
+
+
 
 This is a fork from the repository  - https://github.com/craig-osterhout/docker-genai-sample
 
